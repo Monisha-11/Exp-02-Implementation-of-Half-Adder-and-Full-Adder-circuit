@@ -93,11 +93,12 @@ endmodule
 
 ### HALF ADDER
 
-![OUTPUT](./HALF2.png)
+![outputT1](https://user-images.githubusercontent.com/93427240/166098699-6866e4b6-dc67-437d-a66d-ecd66292bdf8.jpeg)
+
 
 ### FULL ADDER:
 
-![OUTPUT](./FULL2.png)
+![outputT2full](https://user-images.githubusercontent.com/93427240/166098697-2a0e8ecc-a524-4928-a154-bb02486570b0.jpeg)
 
 
 # Result:
